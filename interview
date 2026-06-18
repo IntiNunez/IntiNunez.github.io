@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inti's Mystery Black Box Investigation and Project</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="images/Logowebsite.png">
+</head>
+<body>
+<nav>
+  <ul>
+  <a href="home.html"><li>Home</li></a>
+  <a href="blackbox.html"><li>Black Box Project</li></a>
+  <a href="screenprint.html"><li>Screenprinting</li></a>
+  <a href="genetics.html"><li>DNA Experiment</li></a>
+  </ul>
+</nav>
+<h1>Genetic Diversity Lab Interview</h1>
+<h2>What will we be doing in the experiment?</h2>
 
+
+<p>We will be taking samples of our saliva then bursting open some of the cells to extract the DNA and then expanding a segment that varies person to person of it to see who we match with.</p>
+
+<h2>Who do you think you're going to match with?</h2>
+
+
+<p>I think I will match with someone with spanish descent as I am from Bolivia, a country in south america that was once in control of the spanish empire, and my mom is from here, the united states, so there is a chance for english descent. There is also a chance that my DNA matches with someone from other European countries such as Ireland, Germany, or Great Britain as I have ancestors that came from those countries. </p>
+
+<h3>Is there anyone specifically you think you will match with?</h3>
+
+<p>Specifically I would say that I am the closest match with Santiago, a friend from Argentina, or Kayser, who is from Puerto Rico. Both of these countries have been in Spanish control at one point so I think those two are the people with the highest likelihood of matching DNA with me.</p>
+
+
+<h2>What do you think will be the most important part of the experiment?</h2>
+
+<p>I think that the most important part of this experiment is when we expand the specific segment of our DNA that varies the most as if we just took any part of the DNA it would most likely not give us any information of where we are from or who we match with as most of our DNA is the same thing.</p>
+
+</body>
+</html>
