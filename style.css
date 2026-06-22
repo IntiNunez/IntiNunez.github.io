@@ -102,3 +102,31 @@ iframe {
   margin: 0 auto;
   display: block;
 }
+
+li {
+
+  list-style-type: none;
+  Display: inline-block;
+  Background-color: #1a237e;
+  Color: white;
+  Padding: 5px 15px 5px;
+  Margin: 5px;
+  Width: 20%;
+  Text-align: center;
+}
+
+li:hover, Nav li:hover a {
+
+  Background-color: #E1D1FF;
+  Color: black;
+  Text-decoration: none;
+
+}
+
+a {
+
+  Color: white;
+  Text-decoration: none;
+  Font-size: 20px;
+
+}
